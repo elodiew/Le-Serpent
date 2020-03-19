@@ -1,6 +1,6 @@
 # Le-Serpent
  
-Creation of an online game in JS
+Creating an online game with JS
 
 Learn JavaScript and create an online game
 
