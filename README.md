@@ -1,8 +1,10 @@
 # Le-Serpent
  
-Création d'un jeu en ligne en JS
-Apprendre JavaScript et créer un jeu en ligne
-Projet de formation Développeur Web
+Creation of an online game in JS
+
+Learn JavaScript and create an online game
+
+Web Developer Training Project
 
 - HTML5
 - CSS3
